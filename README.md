@@ -3,3 +3,4 @@ Java design patterns examples
 
 ### 1 - SOLID
 * SRP - Single Responsibility Principle: [code](src/main/java/learn/dp/jdpexamples/c01solid/srp)
+* OCP - Open/Closed Principle: [code](src/main/java/learn/dp/jdpexamples/c01solid/ocp)
