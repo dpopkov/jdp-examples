@@ -15,3 +15,6 @@ Java design patterns examples
 * ISP - Interface Segregation Principle: 
     * [initial state](src/main/java/learn/dp/jdpexamples/c01solid/isp/initial)
     * [solution](src/main/java/learn/dp/jdpexamples/c01solid/isp/solution)
+* DIP - Dependency Inversion Principle: 
+    * [initial state](src/main/java/learn/dp/jdpexamples/c01solid/dip/initial)
+    * [solution](src/main/java/learn/dp/jdpexamples/c01solid/dip/solution)
