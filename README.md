@@ -1,5 +1,7 @@
 # jdp-examples
-Java design patterns examples
+Java design patterns examples.
+
+[Notes](notes/index.md)
 
 ### 1 - SOLID
 * SRP - Single Responsibility Principle: 
@@ -18,3 +20,7 @@ Java design patterns examples
 * DIP - Dependency Inversion Principle: 
     * [initial state](src/main/java/learn/dp/jdpexamples/c01solid/dip/initial)
     * [solution](src/main/java/learn/dp/jdpexamples/c01solid/dip/solution)
+
+### 2 - Simple Factory Pattern
+* [notes](notes/c02simpleFactory.md)
+* [example](src/main/java/learn/dp/jdpexamples/c02simplefactory)
