@@ -1,3 +1,4 @@
 # Java Design Patterns
 
 * [Simple Factory Pattern](c02simpleFactory.md)
+* [Factory Method Pattern](c03factoryMethod.md)
