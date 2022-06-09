@@ -1,14 +1,10 @@
 package learn.dp.jdpexamples.c04abstractfactory;
 
-import learn.dp.jdpexamples.c04abstractfactory.pet.PetAnimalFactory;
-import learn.dp.jdpexamples.c04abstractfactory.wild.WildAnimalFactory;
-
-public class Client1 {
-
+public class Client2 {
     public static void main(String[] args) {
-        System.out.println("*** Abstract Factory Pattern Demo 1. ***");
+        System.out.println("*** Abstract Factory Pattern Demo 2. ***");
 
-        AnimalFactory wildFactory = new WildAnimalFactory();
+        AnimalFactory wildFactory = FactoryProvider.getFactory("wild");
         Dog wildDog = wildFactory.createDog("while");
         Tiger wildTiger = wildFactory.createTiger("golden");
         wildDog.displayMe();
@@ -17,7 +13,7 @@ public class Client1 {
 
         System.out.println("------------------------------------");
 
-        AnimalFactory petFactory = new PetAnimalFactory();
+        AnimalFactory petFactory = FactoryProvider.getFactory("pet");
         Dog petDog = petFactory.createDog("black");
         Tiger petTiger = petFactory.createTiger("yellow");
         petDog.displayMe();
