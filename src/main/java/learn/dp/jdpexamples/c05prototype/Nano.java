@@ -2,9 +2,9 @@ package learn.dp.jdpexamples.c05prototype;
 
 import java.util.Random;
 
-public class Nano extends BasicCar {
+class Nano extends BasicCar {
 
-    protected Nano(String modelName) {
+    public Nano(String modelName) {
         super(modelName, 5_000);
         setOnRoadPrice(getBasePrice() + new Random().nextInt(1_000));
     }

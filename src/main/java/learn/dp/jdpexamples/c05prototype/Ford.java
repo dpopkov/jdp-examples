@@ -2,9 +2,9 @@ package learn.dp.jdpexamples.c05prototype;
 
 import java.util.Random;
 
-public class Ford extends BasicCar {
+class Ford extends BasicCar {
 
-    protected Ford(String modelName) {
+    public Ford(String modelName) {
         super(modelName, 40_000);
         setOnRoadPrice(getBasePrice() + new Random().nextInt(1_000));
     }
