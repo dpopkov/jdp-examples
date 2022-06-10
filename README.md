@@ -32,3 +32,7 @@ Java design patterns examples.
 ### 4 - Abstract Factory Pattern
 * [notes](notes/c04abstractFactory.md)
 * [example](src/main/java/learn/dp/jdpexamples/c04abstractfactory)
+
+### 5 - Prototype Pattern
+* [notes](notes/c05prototype.md)
+* [example](/src/main/java/learn/dp/jdpexamples/c05prototype)
