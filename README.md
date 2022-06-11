@@ -36,3 +36,7 @@ Java design patterns examples.
 ### 5 - Prototype Pattern
 * [notes](notes/c05prototype.md)
 * [example](/src/main/java/learn/dp/jdpexamples/c05prototype)
+
+### 6 - Builder Pattern
+* [notes](notes/c06builder.md)
+* [example](src/main/java/learn/dp/jdpexamples/c06builder)
