@@ -9,18 +9,21 @@ class CarBuilder implements Builder {
     }
 
     @Override
-    public void addBrandName() {
+    public Builder addBrandName() {
         car.addPart(" Adding the car brand: " + car.getBrandName() + ".");
+        return this;
     }
 
     @Override
-    public void buildBody() {
+    public Builder buildBody() {
         car.addPart(" Making the car body.");
+        return this;
     }
 
     @Override
-    public void insertWheels() {
+    public Builder insertWheels() {
         car.addPart(" 4 wheels are added to the car.");
+        return this;
     }
 
     @Override

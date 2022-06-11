@@ -2,11 +2,11 @@ package learn.dp.jdpexamples.c06builder;
 
 interface Builder {
 
-    void addBrandName();
+    Builder addBrandName();
 
-    void buildBody();
+    Builder buildBody();
 
-    void insertWheels();
+    Builder insertWheels();
 
     /** This method is used to retrieve the vehicle that is constructed. */
     Vehicle getVehicle();
