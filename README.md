@@ -40,3 +40,8 @@ Java design patterns examples.
 ### 6 - Builder Pattern
 * [notes](notes/c06builder.md)
 * [example](src/main/java/learn/dp/jdpexamples/c06builder)
+
+### 7 - Singleton Pattern
+* [notes](notes/c07singleton.md)
+* [example](src/main/java/learn/dp/jdpexamples/c07singleton)
+* [best practices](https://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples)
