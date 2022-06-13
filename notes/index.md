@@ -6,3 +6,4 @@
 * [Prototype Pattern](c05prototype.md)
 * [Builder Pattern](c06builder.md)
 * [Singleton Pattern](c07singleton.md)
+* [Proxy Pattern](c08proxy.md)

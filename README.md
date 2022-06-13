@@ -45,3 +45,7 @@ Java design patterns examples.
 * [notes](notes/c07singleton.md)
 * [example](src/main/java/learn/dp/jdpexamples/c07singleton)
 * [best practices](https://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples)
+
+### 8 - Proxy Pattern
+* [notes](notes/c08proxy.md)
+* [example](src/main/java/learn/dp/jdpexamples/c08proxy)
