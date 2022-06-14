@@ -49,3 +49,7 @@ Java design patterns examples.
 ### 8 - Proxy Pattern
 * [notes](notes/c08proxy.md)
 * [example](src/main/java/learn/dp/jdpexamples/c08proxy)
+
+### 9 - Decorator Pattern
+* [notes](notes/c09decorator.md)
+* [example](src/main/java/learn/dp/jdpexamples/c09decorator)
