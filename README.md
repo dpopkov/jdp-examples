@@ -53,3 +53,7 @@ Java design patterns examples.
 ### 9 - Decorator Pattern
 * [notes](notes/c09decorator.md)
 * [example](src/main/java/learn/dp/jdpexamples/c09decorator)
+
+### 10 - Adapter Pattern
+* [notes](notes/c10adapter.md)
+* [example](src/main/java/learn/dp/jdpexamples/c10adapter)

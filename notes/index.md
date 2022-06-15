@@ -8,3 +8,4 @@
 * [Singleton Pattern](c07singleton.md)
 * [Proxy Pattern](c08proxy.md)
 * [Decorator Pattern](c09decorator.md)
+* [Adapter Pattern](c10adapter.md)
