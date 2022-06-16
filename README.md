@@ -57,3 +57,7 @@ Java design patterns examples.
 ### 10 - Adapter Pattern
 * [notes](notes/c10adapter.md)
 * [example](src/main/java/learn/dp/jdpexamples/c10adapter)
+
+### 11 - Facade Pattern
+* [notes](notes/c11facade.md)
+* [example](src/main/java/learn/dp/jdpexamples/c11facade)
