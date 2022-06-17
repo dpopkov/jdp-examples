@@ -61,3 +61,7 @@ Java design patterns examples.
 ### 11 - Facade Pattern
 * [notes](notes/c11facade.md)
 * [example](src/main/java/learn/dp/jdpexamples/c11facade)
+
+### 12 - Flyweight Pattern
+* [notes](notes/c12flyweight.md)
+* [example](src/main/java/learn/dp/jdpexamples/c12flyweight)
