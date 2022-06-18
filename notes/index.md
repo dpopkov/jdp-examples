@@ -11,3 +11,4 @@
 * [Adapter Pattern](c10adapter.md)
 * [Facade Pattern](c11facade.md)
 * [Flyweight Pattern](c12flyweight.md)
+* [Composite Pattern](c13composite.md)
