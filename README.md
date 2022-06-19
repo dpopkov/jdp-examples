@@ -66,6 +66,10 @@ Java design patterns examples.
 * [notes](notes/c12flyweight.md)
 * [example](src/main/java/learn/dp/jdpexamples/c12flyweight)
 
-### 13 - Composite Patter
+### 13 - Composite Pattern
 * [notes](notes/c13composite.md)
 * [example](src/main/java/learn/dp/jdpexamples/c13composite)
+
+### 14 - Bridge Pattern
+* [notes](notes/c14bridge.md)
+* [example](src/main/java/learn/dp/jdpexamples/c14bridge)
