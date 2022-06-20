@@ -13,3 +13,4 @@
 * [Flyweight Pattern](c12flyweight.md)
 * [Composite Pattern](c13composite.md)
 * [Bridge Pattern](c14bridge.md)
+* [Template Method Pattern](c15templatemethod.md)

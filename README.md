@@ -73,3 +73,7 @@ Java design patterns examples.
 ### 14 - Bridge Pattern
 * [notes](notes/c14bridge.md)
 * [example](src/main/java/learn/dp/jdpexamples/c14bridge)
+
+### 15 - Template Method Pattern
+* [notes](notes/c15templatemethod.md)
+* [example](src/main/java/learn/dp/jdpexamples/c15templatemethod)
