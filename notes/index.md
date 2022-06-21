@@ -14,3 +14,4 @@
 * [Composite Pattern](c13composite.md)
 * [Bridge Pattern](c14bridge.md)
 * [Template Method Pattern](c15templatemethod.md)
+* [Observer Pattern](c16observer.md)

@@ -77,3 +77,7 @@ Java design patterns examples.
 ### 15 - Template Method Pattern
 * [notes](notes/c15templatemethod.md)
 * [example](src/main/java/learn/dp/jdpexamples/c15templatemethod)
+
+### 16 - Observer Pattern
+* [notes](notes/c16observer.md)
+* [example](src/main/java/learn/dp/jdpexamples/c16observer)
