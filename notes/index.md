@@ -15,3 +15,4 @@
 * [Bridge Pattern](c14bridge.md)
 * [Template Method Pattern](c15templatemethod.md)
 * [Observer Pattern](c16observer.md)
+* [Chain of Responsibility Pattern](c17chainofresponsibility.md)

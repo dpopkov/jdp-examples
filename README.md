@@ -81,3 +81,7 @@ Java design patterns examples.
 ### 16 - Observer Pattern
 * [notes](notes/c16observer.md)
 * [example](src/main/java/learn/dp/jdpexamples/c16observer)
+
+### 17 - Chain of Responsibility
+* [notes](notes/c17chainofresponsibility.md)
+* [example](src/main/java/learn/dp/jdpexamples/c17chainofresponsibility)
