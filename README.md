@@ -85,3 +85,7 @@ Java design patterns examples.
 ### 17 - Chain of Responsibility
 * [notes](notes/c17chainofresponsibility.md)
 * [example](src/main/java/learn/dp/jdpexamples/c17chainofresponsibility)
+
+### 18 - Iterator Pattern
+* [notes](notes/c18iterator.md)
+* [example](src/main/java/learn/dp/jdpexamples/c18iterator)
