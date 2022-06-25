@@ -93,3 +93,7 @@ Java design patterns examples.
 ### 19 - Command Pattern
 * [notes](notes/c19command.md)
 * [example](src/main/java/learn/dp/jdpexamples/c19command)
+
+### 20 - Memento Pattern
+* [notes](notes/c20memento.md)
+* [example](src/main/java/learn/dp/jdpexamples/c20memento)

@@ -18,3 +18,4 @@
 * [Chain of Responsibility Pattern](c17chainofresponsibility.md)
 * [Iterator Pattern](c18iterator.md)
 * [Command Pattern](c19command.md)
+* [Memento Pattern](c20memento.md)
