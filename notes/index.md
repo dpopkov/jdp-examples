@@ -19,3 +19,4 @@
 * [Iterator Pattern](c18iterator.md)
 * [Command Pattern](c19command.md)
 * [Memento Pattern](c20memento.md)
+* [Strategy Pattern](c21strategy.md)
