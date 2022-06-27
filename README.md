@@ -101,3 +101,7 @@ Java design patterns examples.
 ### 21 - Strategy Pattern
 * [notes](notes/c21strategy.md)
 * [example](src/main/java/learn/dp/jdpexamples/c21strategy)
+
+### 22 - State Pattern
+* [notes](notes/c22state.md)
+* [example](src/main/java/learn/dp/jdpexamples/c22state)

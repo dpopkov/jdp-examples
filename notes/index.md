@@ -20,3 +20,4 @@
 * [Command Pattern](c19command.md)
 * [Memento Pattern](c20memento.md)
 * [Strategy Pattern](c21strategy.md)
+* [State Pattern](c22state.md)
