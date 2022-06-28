@@ -105,3 +105,7 @@ Java design patterns examples.
 ### 22 - State Pattern
 * [notes](notes/c22state.md)
 * [example](src/main/java/learn/dp/jdpexamples/c22state)
+
+### 23 - Mediator Pattern
+* [notes](notes/c23mediator.md)
+* [example](src/main/java/learn/dp/jdpexamples/c23mediator)
