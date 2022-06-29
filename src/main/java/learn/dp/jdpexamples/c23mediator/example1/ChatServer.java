@@ -1,4 +1,4 @@
-package learn.dp.jdpexamples.c23mediator;
+package learn.dp.jdpexamples.c23mediator.example1;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
