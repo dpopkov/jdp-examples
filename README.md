@@ -109,3 +109,7 @@ Java design patterns examples.
 ### 23 - Mediator Pattern
 * [notes](notes/c23mediator.md)
 * [example](src/main/java/learn/dp/jdpexamples/c23mediator)
+
+### 24 - Visitor Pattern
+* [notes](notes/c24visitor.md)
+* [example](src/main/java/learn/dp/jdpexamples/c24visitor)
