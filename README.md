@@ -113,3 +113,7 @@ Java design patterns examples.
 ### 24 - Visitor Pattern
 * [notes](notes/c24visitor.md)
 * [example](src/main/java/learn/dp/jdpexamples/c24visitor)
+
+### 25 - Interpreter Pattern
+* [notes](notes/c25interpreter.md)
+* [example](src/main/java/learn/dp/jdpexamples/c25interpreter)
