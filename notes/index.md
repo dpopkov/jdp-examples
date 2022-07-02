@@ -24,3 +24,4 @@
 * [Mediator Pattern](c23mediator.md)
 * [Visitor Pattern](c24visitor.md)
 * [Interpreter Pattern](c25interpreter.md)
+* [Null Object Pattern](c26nullobject.md)

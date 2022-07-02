@@ -117,3 +117,7 @@ Java design patterns examples.
 ### 25 - Interpreter Pattern
 * [notes](notes/c25interpreter.md)
 * [example](src/main/java/learn/dp/jdpexamples/c25interpreter)
+
+### 26 - Null Object Pattern
+* [notes](notes/c26nullobject.md)
+* [example](src/main/java/learn/dp/jdpexamples/c26nullobject)
