@@ -121,3 +121,6 @@ Java design patterns examples.
 ### 26 - Null Object Pattern
 * [notes](notes/c26nullobject.md)
 * [example](src/main/java/learn/dp/jdpexamples/c26nullobject)
+
+### 27 - MVC Pattern
+* [example](src/main/java/learn/dp/jdpexamples/c27mvc)
