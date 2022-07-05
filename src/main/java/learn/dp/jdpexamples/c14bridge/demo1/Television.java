@@ -1,4 +1,4 @@
-package learn.dp.jdpexamples.c14bridge;
+package learn.dp.jdpexamples.c14bridge.demo1;
 
 /** Refined Abstraction. */
 class Television extends ElectronicItem {
